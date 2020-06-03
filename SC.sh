@@ -1,2 +1,2 @@
 echo "
-Hello"
+Hello" | lolcat
