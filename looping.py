@@ -8,8 +8,8 @@ print "= Kind   : LOOPING                    ="
 print "= Github : https://github.com/MATWIND ="
 print "======================================="
 print " "
-x = str(input("Klik enter untuk lanjut "))
+x = str(input("Ketik y untuk lanjut :  "))
 os.system('clear')
 
-while(True):
+while x : "y"
     print "ANDA TERKENA VIRUS" 
