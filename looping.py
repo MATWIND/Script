@@ -8,7 +8,7 @@ print "= Kind   : LOOPING                    ="
 print "= Github : https://github.com/MATWIND ="
 print "======================================="
 print " "
-x = input ("Klik enter untuk lanjut")
+x = input("Klik enter untuk lanjut")
 os.system('clear')
 
 while(True):
